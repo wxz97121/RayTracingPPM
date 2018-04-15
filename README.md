@@ -1,7 +1,7 @@
 # RayTracingPPM
 A simple ray tracing project which generates PPM file.
 
-——————————————————————
+---------------------
 
 更新日志：2017-07-12
 
@@ -11,7 +11,7 @@ A simple ray tracing project which generates PPM file.
 3、关于并行处理……我使用G++编译的，编译的时候加了 -fopenmp……我也不知道VC++怎么加这个
 4、Example5，和Example6是之前图片的高配版本
 
-——————————————————————
+---------------------
 
 1、关于编译，因为就一个.cpp和一个.h 随便找个编译器就能编译，需要支持 C++11 ，为了加速运行最好加-O3。
 2、所有代码都是手敲的……没有复制粘贴，很多抄了书但也是手打的……有一部分数学代码是上学期写的。
